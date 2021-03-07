@@ -11,7 +11,9 @@ class Header extends Component {
             <img src={logo} className="logo" alt="Shopping cart" />
           </div>
           <div className="col-8">
-            col8
+            <div className="logo-text">
+              Shopping Cart
+            </div>
           </div>
         </div>
       </div>

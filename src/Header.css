@@ -1,3 +1,9 @@
 .logo {
   width: 100%;
 }
+
+.logo-text {
+  font-size: 24px;
+  color: blue;
+  text-align: center;
+}
